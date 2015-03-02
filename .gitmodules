@@ -1,3 +1,4 @@
 [submodule "brotli"]
 	path = brotli
-	url = https://github.com/google/brotli.git
+	url = https://github.com/anthrotype/brotli.git
+	branch = win_build_9
